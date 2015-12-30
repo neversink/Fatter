@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical"
+              android:padding="8dp">
+
+    <EditText
+        android:id="@+id/weight"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:hint="@string/et_hint_inputweight"
+        android:inputType="number"
+        android:maxLines="1"
+        tools:text="60.0"/>
+
+    <CheckBox
+        android:id="@+id/snack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ifMidnightSnack"/>
+
+    <CheckBox
+        android:id="@+id/bath"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ifAfterBath"/>
+
+    <CheckBox
+        android:id="@+id/defecation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ifDefecation"/>
+</LinearLayout>

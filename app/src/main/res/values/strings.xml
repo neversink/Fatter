@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Fatter </string>
+    <string name="action_settings">设置</string>
+    <string name="et_hint_inputweight">请输入体重</string>
+    <string name="ifMidnightSnack">吃宵夜了咩</string>
+    <string name="ifAfterBath">洗过澡了咩</string>
+    <string name="ifDefecation">今天清仓咩</string>
+    <string name="dialog_posi">OK</string>
+    <string name="dialog_nega">Cancle</string>
+    <string name="dialog_insertsuccess">记录成功</string>
+    <string name="invalid">输入数据无效</string>
+    <string name="weight_unit">KG</string>
+    <string name="dialog_delete_msg">确定删除该记录吗？</string>
+    <string name="snackbar_delete">成功删除记录</string>
+    <string name="snackbar_undo">恢复</string>
+    <string name="splash_text1">Good Good Eat</string>
+    <string name="splash_text2">Day Day Fat</string>
+    <string name="action_upload">上传</string>
+    <string name="action_statistics">统计</string>
+    <string name="char_description">体重变化趋势</string>
+    <string name="sync_failure">同步失败</string>
+    <string name="sync_success">同步成功</string>
+</resources>
