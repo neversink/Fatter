@@ -1,0 +1,15 @@
+.idea
+build
+app/src/androidTest
+gradle/wrapper/gradle-wrapper.jar
+Fatter .iml
+gradlew.bat
+app/src/.DS_Store
+app/.DS_Store
+.gradle
+app/app.iml
+.DS_Store
+gradle/.DS_Store
+gradlew
+app/.gitignore
+app/src/test
